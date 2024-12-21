@@ -1,0 +1,10 @@
+Regression in Machine Learning:-  
+
+This repository is dedicated to regression techniques in machine learning, which are used to predict continuous values and uncover relationships between variables.
+Regression plays a crucial role in applications such as forecasting, trend analysis, and optimization.  
+
+Contents:-  
+- Algorithm Implementations:- Step-by-step code for Linear Regression, Polynomial Regression, Ridge, Lasso, ElasticNet, and more advanced methods like Decision Trees and Neural Networks for regression.  
+- Use Cases:- Practical projects including house price prediction, stock market analysis, and sales forecasting.  
+- Performance Metrics:- Tutorials on evaluating models using Mean Squared Error (MSE), R-squared, Mean Absolute Error (MAE), and other key metrics.  
+- Data Handling:- Insights into preprocessing, feature scaling, and managing multicollinearity for better regression outcomes. 
