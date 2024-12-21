@@ -1,0 +1,16 @@
+Repository Description:-  
+
+Medical Insurance Cost Prediction System:-  
+
+This repository contains a machine learning project focused on predicting medical insurance costs using regression techniques.
+The project aims to provide accurate cost estimations based on individual factors such as age, BMI, smoking habits, and more,
+helping insurance providers and individuals make informed decisions.  
+
+Features:-  
+- Regression Models:- Implementation of Linear Regression, Polynomial Regression, Ridge, and other advanced models for cost prediction.  
+- Dataset:- Utilizes a medical insurance dataset with features like age, gender, region, and lifestyle factors.  
+- Data Preprocessing:- Comprehensive steps for handling missing values, feature scaling, and encoding categorical variables.  
+- Performance Evaluation:- Model evaluation using metrics like Mean Squared Error (MSE), R-squared, and Mean Absolute Error (MAE).  
+- Insights:- Exploratory Data Analysis (EDA) to identify key factors influencing insurance costs.  
+
+This repository serves as a practical example of applying regression in the healthcare domain, ideal for learning and deploying predictive models for real-world applications.
